@@ -6,16 +6,16 @@
 ## ios
 ```meteor add-platform ios```
 
-####simulator  (working for me)
+#### simulator  (working for me)
 ```meteor run ios```     
-####device     (working for me)
+#### device     (working for me)
 ```meteor run ios-device```   
 
 ## Android
 ###### would be awesome if you can check the android versions
 
 ```meteor add-platform android```
-####simulator  (not tested yet)
+#### simulator  (not tested yet)
 ```meteor run android```  
-####device     (not tested yet)
+#### device     (not tested yet)
 ```meteor run android-device```   
