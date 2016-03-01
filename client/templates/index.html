@@ -1,0 +1,12 @@
+<template name="index">
+    <h1>Statusbartest</h1>
+    <h4>index page</h4>
+
+    <button>Click Me</button>
+    <p>Click to hide/show statusbar</p>
+    <p>cordova version: v{{cordova.version}}</p>
+    <p>device platform: {{cordova.platformId}}</p>
+    <p>meteor version: {{meteor.release}}</p>
+    <br><br><br>
+    <a href="{{pathFor route='next'}}">Go to next page</a>
+</template>
